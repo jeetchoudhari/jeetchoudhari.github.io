@@ -133,3 +133,5 @@
  * Copyright 2015-2024 Raoul van Rüschen
  * @license Zlib
  */
+
+//! goToAndStop must be relative to the start of the current segment
