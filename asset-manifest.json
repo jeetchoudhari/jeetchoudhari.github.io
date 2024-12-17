@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9f524ea6.css",
-    "main.js": "/static/js/main.b36f1336.js",
+    "main.js": "/static/js/main.c7db9be3.js",
     "static/js/453.bd1f04f9.chunk.js": "/static/js/453.bd1f04f9.chunk.js",
     "static/media/hackerrank.png": "/static/media/hackerrank.0f32d133b601ca0dee08.png",
     "static/media/personalitypatent.png": "/static/media/personalitypatent.80b950431eef99d887f6.png",
@@ -18,22 +18,25 @@
     "static/media/contact.webp": "/static/media/contact.84c3341c3296ac00fb1f.webp",
     "static/media/personality.png": "/static/media/personality.a142b71f9439d7479beb.png",
     "static/media/waste.jpg": "/static/media/waste.d5d9493e1d74ec62036d.jpg",
+    "static/media/cyberark.jpeg": "/static/media/cyberark.3dce83698c641b5d7e21.jpeg",
+    "static/media/aiagent.webp": "/static/media/aiagent.58c956f4404b0408c0eb.webp",
     "static/media/signature.png": "/static/media/signature.2e4ba9f0875f01e1dc6a.png",
     "static/media/speaksql.png": "/static/media/speaksql.dd195fbc9207a0f661eb.png",
     "static/media/bank.jpg": "/static/media/bank.245493977ee43cc55045.jpg",
     "static/media/password.jpg": "/static/media/password.4e9ef5dd7647e0aef1c8.jpg",
     "static/media/calorie.jpg": "/static/media/calorie.ebdf6c6c66d61fbfe111.jpg",
     "static/media/expense.webp": "/static/media/expense.d9d38198649be3e387d5.webp",
+    "static/media/financeforcaster.webp": "/static/media/financeforcaster.d58ca69a5e50de416898.webp",
     "static/media/fashion.jpeg": "/static/media/fashion.193404aa90968037ebd8.jpeg",
     "static/media/black.jpg": "/static/media/black.6a5dcd020e195f918a8a.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.9f524ea6.css.map": "/static/css/main.9f524ea6.css.map",
-    "main.b36f1336.js.map": "/static/js/main.b36f1336.js.map",
+    "main.c7db9be3.js.map": "/static/js/main.c7db9be3.js.map",
     "453.bd1f04f9.chunk.js.map": "/static/js/453.bd1f04f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f524ea6.css",
-    "static/js/main.b36f1336.js"
+    "static/js/main.c7db9be3.js"
   ]
 }
