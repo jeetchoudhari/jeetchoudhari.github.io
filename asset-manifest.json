@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9f524ea6.css",
-    "main.js": "/static/js/main.5c7f40c0.js",
+    "main.js": "/static/js/main.3fe8fc75.js",
     "static/js/453.bd1f04f9.chunk.js": "/static/js/453.bd1f04f9.chunk.js",
     "static/media/hackerrank.png": "/static/media/hackerrank.0f32d133b601ca0dee08.png",
     "static/media/personalitypatent.png": "/static/media/personalitypatent.80b950431eef99d887f6.png",
@@ -24,6 +24,7 @@
     "static/media/speaksql.png": "/static/media/speaksql.dd195fbc9207a0f661eb.png",
     "static/media/bank.jpg": "/static/media/bank.245493977ee43cc55045.jpg",
     "static/media/password.jpg": "/static/media/password.4e9ef5dd7647e0aef1c8.jpg",
+    "static/media/insurancechatbot.jpg": "/static/media/insurancechatbot.e3b61b60a55efe89ef5a.jpg",
     "static/media/calorie.jpg": "/static/media/calorie.ebdf6c6c66d61fbfe111.jpg",
     "static/media/expense.webp": "/static/media/expense.d9d38198649be3e387d5.webp",
     "static/media/financeforcaster.webp": "/static/media/financeforcaster.d58ca69a5e50de416898.webp",
@@ -32,11 +33,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.9f524ea6.css.map": "/static/css/main.9f524ea6.css.map",
-    "main.5c7f40c0.js.map": "/static/js/main.5c7f40c0.js.map",
+    "main.3fe8fc75.js.map": "/static/js/main.3fe8fc75.js.map",
     "453.bd1f04f9.chunk.js.map": "/static/js/453.bd1f04f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f524ea6.css",
-    "static/js/main.5c7f40c0.js"
+    "static/js/main.3fe8fc75.js"
   ]
 }
