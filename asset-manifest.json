@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9f524ea6.css",
-    "main.js": "/static/js/main.3fe8fc75.js",
+    "main.js": "/static/js/main.d41f2d7b.js",
     "static/js/453.bd1f04f9.chunk.js": "/static/js/453.bd1f04f9.chunk.js",
     "static/media/hackerrank.png": "/static/media/hackerrank.0f32d133b601ca0dee08.png",
     "static/media/personalitypatent.png": "/static/media/personalitypatent.80b950431eef99d887f6.png",
@@ -10,6 +10,8 @@
     "static/media/oracleassociate.png": "/static/media/oracleassociate.17de31c564b8e43eca87.png",
     "static/media/cyberark.png": "/static/media/cyberark.30259d7f29e29051b721.png",
     "static/media/webapp.png": "/static/media/webapp.a646605570b6ed740be2.png",
+    "static/media/salesforceassociate.png": "/static/media/salesforceassociate.47f9567c964d83748eb0.png",
+    "static/media/salesforcespecialist.png": "/static/media/salesforcespecialist.f448bc786575511c413c.png",
     "static/media/azure.png": "/static/media/azure.57e4c55407bd569a36f5.png",
     "static/media/jeet9.png": "/static/media/jeet9.d19c9a1a5fb77312ea82.png",
     "static/media/po2.png": "/static/media/po2.0a8ad23575a65ff34f9a.png",
@@ -33,11 +35,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.9f524ea6.css.map": "/static/css/main.9f524ea6.css.map",
-    "main.3fe8fc75.js.map": "/static/js/main.3fe8fc75.js.map",
+    "main.d41f2d7b.js.map": "/static/js/main.d41f2d7b.js.map",
     "453.bd1f04f9.chunk.js.map": "/static/js/453.bd1f04f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f524ea6.css",
-    "static/js/main.3fe8fc75.js"
+    "static/js/main.d41f2d7b.js"
   ]
 }
