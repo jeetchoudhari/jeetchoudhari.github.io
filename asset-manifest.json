@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9f524ea6.css",
-    "main.js": "/static/js/main.d41f2d7b.js",
+    "main.js": "/static/js/main.f00cca28.js",
     "static/js/453.bd1f04f9.chunk.js": "/static/js/453.bd1f04f9.chunk.js",
     "static/media/hackerrank.png": "/static/media/hackerrank.0f32d133b601ca0dee08.png",
     "static/media/personalitypatent.png": "/static/media/personalitypatent.80b950431eef99d887f6.png",
@@ -10,13 +10,18 @@
     "static/media/oracleassociate.png": "/static/media/oracleassociate.17de31c564b8e43eca87.png",
     "static/media/cyberark.png": "/static/media/cyberark.30259d7f29e29051b721.png",
     "static/media/webapp.png": "/static/media/webapp.a646605570b6ed740be2.png",
+    "static/media/alteryxcore.png": "/static/media/alteryxcore.fa8d3d2411232457f130.png",
+    "static/media/ecommercesalesexcel.png": "/static/media/ecommercesalesexcel.e2d6c49702d1506868c2.png",
     "static/media/salesforceassociate.png": "/static/media/salesforceassociate.47f9567c964d83748eb0.png",
     "static/media/salesforcespecialist.png": "/static/media/salesforcespecialist.f448bc786575511c413c.png",
+    "static/media/amazonsalesreport.png": "/static/media/amazonsalesreport.f10138a0a8f8b325d705.png",
     "static/media/azure.png": "/static/media/azure.57e4c55407bd569a36f5.png",
     "static/media/jeet9.png": "/static/media/jeet9.d19c9a1a5fb77312ea82.png",
     "static/media/po2.png": "/static/media/po2.0a8ad23575a65ff34f9a.png",
+    "static/media/sqlhackerrank.png": "/static/media/sqlhackerrank.ca696e608e9c4ef62282.png",
     "static/media/cicd.png": "/static/media/cicd.671a1e92253993e59a85.png",
     "static/media/textsql.png": "/static/media/textsql.8af4bfdff8a2cf1a68f7.png",
+    "static/media/empdatanalysis.png": "/static/media/empdatanalysis.20471249988c26ac0338.png",
     "static/media/contact.webp": "/static/media/contact.84c3341c3296ac00fb1f.webp",
     "static/media/personality.png": "/static/media/personality.a142b71f9439d7479beb.png",
     "static/media/waste.jpg": "/static/media/waste.d5d9493e1d74ec62036d.jpg",
@@ -25,9 +30,7 @@
     "static/media/signature.png": "/static/media/signature.2e4ba9f0875f01e1dc6a.png",
     "static/media/speaksql.png": "/static/media/speaksql.dd195fbc9207a0f661eb.png",
     "static/media/bank.jpg": "/static/media/bank.245493977ee43cc55045.jpg",
-    "static/media/password.jpg": "/static/media/password.4e9ef5dd7647e0aef1c8.jpg",
     "static/media/insurancechatbot.jpg": "/static/media/insurancechatbot.e3b61b60a55efe89ef5a.jpg",
-    "static/media/calorie.jpg": "/static/media/calorie.ebdf6c6c66d61fbfe111.jpg",
     "static/media/expense.webp": "/static/media/expense.d9d38198649be3e387d5.webp",
     "static/media/financeforcaster.webp": "/static/media/financeforcaster.d58ca69a5e50de416898.webp",
     "static/media/fashion.jpeg": "/static/media/fashion.193404aa90968037ebd8.jpeg",
@@ -35,11 +38,11 @@
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.9f524ea6.css.map": "/static/css/main.9f524ea6.css.map",
-    "main.d41f2d7b.js.map": "/static/js/main.d41f2d7b.js.map",
+    "main.f00cca28.js.map": "/static/js/main.f00cca28.js.map",
     "453.bd1f04f9.chunk.js.map": "/static/js/453.bd1f04f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9f524ea6.css",
-    "static/js/main.d41f2d7b.js"
+    "static/js/main.f00cca28.js"
   ]
 }
